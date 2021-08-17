@@ -5,5 +5,8 @@ Two
 Three  
 Four  
 Five  
+Six  
+Seven  
+
 
 Intro to Git Hub
